@@ -1,0 +1,8 @@
+@echo off
+pip install opencv-python 
+pip install tkinter
+pip install numpy
+pip install numpy 
+
+echo SETUP COMPLETE
+pause
