@@ -11,4 +11,10 @@ For Calibration re-position the distance of the cam, and the object until the he
 enough and mark that location or distance as it depends on the camera in use. It is highly recommended to use an
 external webcam.
 
+For use ensure you have python installed then:
+1) start the setup.bat file, let it install all the libraries.
+2) run the start.bat file, let it run start the applicaiton 
+
 For further Enquiries contact: tdalmuthana@live.com/ mvthana97@icloud.com
+
+
